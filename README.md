@@ -1,8 +1,8 @@
-#<span>ASP.NET</span> Web API 2 Demo
+# <span>ASP.NET</span> Web API 2 Demo
 
 This is the Web API 2 project from the workshop on Dev Day #2.
 
-###Features
+### Features
 - Set up an API in minutes
 - Deliver web content using a Web API
 - Create a custom endpoint with functions
@@ -11,7 +11,7 @@ This is the Web API 2 project from the workshop on Dev Day #2.
 
 
 
-###Further Info
+### Further Info
 Documentation
 https://msdn.microsoft.com/en-us/library/dn448365.aspx
 

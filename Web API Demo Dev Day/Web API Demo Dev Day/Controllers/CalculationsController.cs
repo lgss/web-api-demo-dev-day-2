@@ -41,7 +41,7 @@ namespace Web_API_Demo_Dev_Day.Controllers
 
         /* The above example is used for demo purposes only. The correct implementation below should 
          * allow any number of ints to be added together */
-        
+
         /// <summary>
         /// Adds numbers together
         /// </summary>
@@ -53,7 +53,7 @@ namespace Web_API_Demo_Dev_Day.Controllers
         {
             int result = 0;
 
-            foreach(int n in numbers)
+            foreach (int n in numbers)
             {
                 result += n;
             }

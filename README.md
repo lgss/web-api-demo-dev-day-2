@@ -18,6 +18,10 @@ https://msdn.microsoft.com/en-us/library/dn448365.aspx
 Microsoft Tutorial
 https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api
 
-ASP.NET Resource
+<span>ASP.NET</span> Resource
 https://www.asp.net/web-api
 
+# Swagger (Open API)
+Added the C# library for swagger called Swashbuckle and documented the API controllers.
+
+![Web API Swagger Documentation](https://github.com/lgss/web-api-demo-dev-day-2/blob/master/web-api-swagger.png?raw=true "Web API Swagger Documentation")
